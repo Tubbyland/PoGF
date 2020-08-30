@@ -1,0 +1,13 @@
+On your turn, choose a Musical Action from the table and a Food from your hand.
+
+Combine the two to make a phrase using the following template: "May I {Musical Action} your {Food}?". For example, "May I tickle your soup?"
+
+Ask one opponent the phrase, and they must then say either yes or no, according to the following rules. 
+
+That player must first check their Boundaries cards. If either the Musical Action or Food is one of their Boundaries, they must say "No". They can say "No" for any reason, even if it is not one of their Boundary cards.
+
+If their Boundaries are not crossed then they can say "Yes". If they have a copy of the same Food card, then the Food cards are exchanged and each player in the trade scores 1 point. Each player in the trade plays the food card face up on the table in front of them in their scoring area, then both players draw up to 4 cards.
+
+If they say "Yes" but do not have the same Food Card, then you give them your copy of the Food card, but no one scores any points. Draw up to 4 cards.
+
+It is possible to have more than 4 cards in your hand. In this case, do not draw any more cards until you have fewer than 4.
