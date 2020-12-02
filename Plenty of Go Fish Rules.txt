@@ -1,3 +1,7 @@
+SETUP:
+Deal each player 3 Boundaries Cards and 4 Food Cards. Put the 9 Musical Action Cards face up on the table.
+
+PLAY:
 On your turn, choose a Musical Action from the table and a Food from your hand.
 
 Combine the two to make a phrase using the following template: "May I {Musical Action} your {Food}?". For example, "May I tickle your soup?"
@@ -11,3 +15,5 @@ If their Boundaries are not crossed then they can say "Yes". If they have a copy
 If they say "Yes" but do not have the same Food Card, then you give them your copy of the Food card, but no one scores any points. Draw up to 4 cards.
 
 It is possible to have more than 4 cards in your hand. In this case, do not draw any more cards until you have fewer than 4.
+
+The game ends when the last card is drawn from the deck. The player with the most points wins, or in the case of a tied game, all tied players win.
